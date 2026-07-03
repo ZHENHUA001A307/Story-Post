@@ -15,17 +15,17 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate RSS and Update Progress
+      - name: Generate RSS and Update progress_link
         shell: python
         run: |
           import os, datetime, csv
           import xml.etree.ElementTree as ET
 
           # 1. 确保进度文件存在
-          if not os.path.exists('progress.txt'):
-              with open('progress.txt', 'w') as f: f.write("0")
+          if not os.path.exists('progress_link.txt'):
+              with open('progress_link.txt', 'w') as f: f.write("0")
 
-          with open('progress.txt', 'r') as f:
+          with open('progress_link.txt', 'r') as f:
               try:
                   idx = int(f.read().strip())
               except:
@@ -99,7 +99,7 @@ jobs:
           with open('feed.xml', 'w', encoding='utf-8') as f:
               f.write(rss_full)
           
-          with open('progress.txt', 'w') as f:
+          with open('progress_link.txt', 'w') as f:
               f.write(str(idx + 1))
 
           print(f"✅ 处理完成！今日推送: {title}")
@@ -109,6 +109,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add progress.txt feed.xml
+          git add progress_link.txt feed.xml
           git commit -m "Update RSS Feed (Stack 15): $(date)" || exit 0
           git push
