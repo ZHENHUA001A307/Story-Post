@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Story-Post</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Fri, 17 Jul 2026 01:59:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 03:11:21 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[临高启明 第三十四节 弹无虚发]]></title>
-      <link>https://lingaoqiming.github.io/1/1-03400.html</link>
+      <title><![CDATA[临高启明 第三十七节 暂别大明]]></title>
+      <link>https://lingaoqiming.github.io/1/1-03700.html</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://lingaoqiming.github.io/1/1-03700.html</guid>
+      <pubDate>Mon, 20 Jul 2026 03:11:21 +0000</pubDate>
+    </item>
+<item>
+      <title>临高启明 第三十四节 弹无虚发</title>
+      <link>https://lingaoqiming.github.io/1/1-03400.html</link>
+      <description />
       <guid isPermaLink="false">https://lingaoqiming.github.io/1/1-03400.html</guid>
       <pubDate>Fri, 17 Jul 2026 01:59:00 +0000</pubDate>
     </item>
@@ -245,13 +252,6 @@
       <description />
       <guid isPermaLink="false">https://lingaoqiming.github.io/1/1-00700.html</guid>
       <pubDate>Mon, 06 Jul 2026 02:29:25 +0000</pubDate>
-    </item>
-<item>
-      <title>临高启明 第四节 掘金——澳洲海商</title>
-      <link>https://lingaoqiming.github.io/1/1-00400.html</link>
-      <description />
-      <guid isPermaLink="false">https://lingaoqiming.github.io/1/1-00400.html</guid>
-      <pubDate>Fri, 03 Jul 2026 06:06:42 +0000</pubDate>
     </item>
 </channel>
 </rss>
