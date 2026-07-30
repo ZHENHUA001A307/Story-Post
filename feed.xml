@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Story-Post</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Tue, 28 Jul 2026 02:14:51 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 02:06:30 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[临高启明 第二节 临高角]]></title>
-      <link>https://lingaoqiming.github.io/2/2-00200.html</link>
+      <title><![CDATA[临高启明 第五节 港口建设（二）]]></title>
+      <link>https://lingaoqiming.github.io/2/2-00500.html</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://lingaoqiming.github.io/2/2-00500.html</guid>
+      <pubDate>Thu, 30 Jul 2026 02:06:30 +0000</pubDate>
+    </item>
+<item>
+      <title>临高启明 第二节 临高角</title>
+      <link>https://lingaoqiming.github.io/2/2-00200.html</link>
+      <description />
       <guid isPermaLink="false">https://lingaoqiming.github.io/2/2-00200.html</guid>
       <pubDate>Tue, 28 Jul 2026 02:14:51 +0000</pubDate>
     </item>
@@ -229,13 +236,6 @@
       <description />
       <guid isPermaLink="false">https://lingaoqiming.github.io/1/1-02200.html</guid>
       <pubDate>Mon, 13 Jul 2026 02:02:22 +0000</pubDate>
-    </item>
-<item>
-      <title>临高启明 第十九节 军事问题</title>
-      <link>https://lingaoqiming.github.io/1/1-01900.html</link>
-      <description />
-      <guid isPermaLink="false">https://lingaoqiming.github.io/1/1-01900.html</guid>
-      <pubDate>Fri, 10 Jul 2026 02:10:59 +0000</pubDate>
     </item>
 </channel>
 </rss>
