@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Story-Post</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Tue, 04 Aug 2026 02:12:44 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 06 Aug 2026 02:20:41 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[临高启明 第十一节 说服]]></title>
-      <link>https://lingaoqiming.github.io/2/2-01100.html</link>
+      <title><![CDATA[临高启明 第十四节 侦察队]]></title>
+      <link>https://lingaoqiming.github.io/2/2-01400.html</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://lingaoqiming.github.io/2/2-01400.html</guid>
+      <pubDate>Thu, 06 Aug 2026 02:20:41 +0000</pubDate>
+    </item>
+<item>
+      <title>临高启明 第十一节 说服</title>
+      <link>https://lingaoqiming.github.io/2/2-01100.html</link>
+      <description />
       <guid isPermaLink="false">https://lingaoqiming.github.io/2/2-01100.html</guid>
       <pubDate>Tue, 04 Aug 2026 02:12:44 +0000</pubDate>
     </item>
@@ -220,13 +227,6 @@
       <description />
       <guid isPermaLink="false">https://lingaoqiming.github.io/1/1-03100.html</guid>
       <pubDate>Thu, 16 Jul 2026 01:55:06 +0000</pubDate>
-    </item>
-<item>
-      <title>临高启明 第二十八节 黄雀会</title>
-      <link>https://lingaoqiming.github.io/1/1-02800.html</link>
-      <description />
-      <guid isPermaLink="false">https://lingaoqiming.github.io/1/1-02800.html</guid>
-      <pubDate>Wed, 15 Jul 2026 01:44:59 +0000</pubDate>
     </item>
 </channel>
 </rss>
