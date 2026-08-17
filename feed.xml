@@ -1,47 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-    <title>我的每日小说</title>
-    <link>https://github.com/ZHENHUA001A307/Story-Post</link>
-    <description>从 EPUB 自动生成的 RSS 订阅源</description>
-        <item>
+  <title>每日更新推送</title>
+  <link>https://github.com/ZHENHUA001A307/Story-Post</link>
+  <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
+  <lastBuildDate>Mon, 17 Aug 2026 01:04:50 +0000</lastBuildDate>
+    <item>
+      <title><![CDATA[临高启明 第二十六节 邬德的新任务（四）]]></title>
+      <link>https://lingaoqiming.github.io/2/2-02600.html</link>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://lingaoqiming.github.io/2/2-02600.html</guid>
+      <pubDate>Mon, 17 Aug 2026 01:04:50 +0000</pubDate>
+    </item>
+<item>
     <title>故事驿站 - 031 - 大小通吃 ［印度尼西亚］林万里.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：7 分钟 (1986 字)</p><hr><div class="chapter" id="chapter">
-<div class="calibre4" id="calibre_pb_0"></div><h1 class="kindle-cn-heading1" id="calibre_pb_1">大小通吃　<span class="font1">［印度尼西亚］林万里</span></h1>
-<p class="calibre1"><span>上午，诊室的门铃响了两下。我就知道看病的人来了。我一开诊室的门，就看到候诊室里坐着三个人。左边的长板凳上坐着两位年龄大约都在四十上下的女人。其中一位愁容满面，散发不梳，身披牛仔夹克，我暂时称她为A；另一位呆头傻脑，眼屎未除，颈项上缚一条灰色围巾，我姑且叫她为B。这两位污垢满脸的女人，从她们邋遢的样子，一眼就能看出是病魔缠身的人。她们的对面，右边的铁椅上坐着一位明眸皓齿的红装女人，衣裙、嘴唇和指甲全是红红的，光彩夺目。看上去三十岁左右，端庄、秀气、俏丽。我敢断定地说，这种女人肯定人见人爱。她不像是有病的人。凭经验我心里猜想，她八成是陪送A、B来的。</span></p>
-<p class="calibre1"><span>人们常说宁可做导演，不要做医生。因为导演是对着漂亮美丽的明星；而医生总是对着愁眉苦脸的病人。今早我可走好运了，总算对着一位美丽的女人。她比明星还要明星。我注视着她，心里美滋滋地十分舒坦。医生和常人一样都喜欢欣赏美的东西。</span></p>
-<p class="calibre1"><span>“医生，早安。”一见到我立在门旁，那一位“全是红红的”便开口说，她不但人长得妩媚，声音也十分悦耳。说了“早安”以后，她转过头对着A、B说：“你们两位先看吧，你们一起进去吧。”回头又对我说：“医生，她们是我亲戚。先给她们看吧，她们都病得不轻。等下轮到我，诊费跟我的一起算，由我来付。”</span></p>
-<p class="calibre1"><span>瞧，这美丽的女人，心地多好！</span></p>
-<p class="calibre1"><span>A、B进来了，我心不在焉地给她们检查了一下，发现A是患了流行性感冒，B是吃错东西拉肚子。我给她们各打了一针并配了药方，前后不到几分钟就解决了A、B的问题。她们似乎发现我给她们看病时的心猿意马，也发觉我是要尽快地把她们打发走。老实说，这时候我脑海里想的是在候诊室正在候诊的那位“全是红红的”，好让她快点进来，好让我好好欣赏。</span></p>
-<p class="calibre1"><span>当我开门把A、B送走，正要招呼那位“全是红红的”时候，发现我的候诊室里空无一人。开始我以为她上厕所去了。这时厕所的门敞开着，证明里头无人。我走去巡查，里头空空如也。</span></p>
-<p class="calibre1"><span>我便问A：“你们的亲戚怎么还没看病就不见人影了？”</span></p>
-<p class="calibre1"><span>“什么我亲戚？我根本不认识她，刚才在你这里初次见面。”A不悦地回答道。</span></p>
-<p class="calibre1"><span>“那么你们两位是亲戚吗？”我指着A、B问道。</span></p>
-<p class="calibre1"><span>“我们三个人，谁都不认识谁，怎么会是亲戚呢！”B答道。</span></p>
-<p class="calibre1"><span>“你们跟她是亲戚或者不是，都不要紧。她不想给我看也没关系。她走了，那么诊费你们自己付好了。每人一万五千盾。”</span></p>
-<p class="calibre1"><span>“诊费我们已经付了。”A、B异口同声地答道。</span></p>
-<p class="calibre1"><span>“是什么时候付给我的？”</span></p>
-<p class="calibre1"><span>“不是付给你，我们已经付给她了。”A答道。</span></p>
-<p class="calibre1"><span>“你们为什么要付给她？”</span></p>
-<p class="calibre1"><span>“刚才我们等你看病的时候。她走进来，问我们在这里看病，一次要付多少钱，我说看一次要一万五千盾。她说这里的医生是她爸爸的好朋友。她给我们省钱，要我们假认是她亲戚。诊费有折扣，说我们每个人交给她一万盾就够了。我们心里想，这个人真好，帮我们每人省五千盾，我们就把钱交给了她。”</span></p>
-<p class="calibre1"><span>“你们就相信了她的话，钱就给她了？”</span></p>
-<p class="calibre1"><span>“是呀！她还说，一个人看病跟三个人一起看病，收费应该不同，就像批发价钱跟零售价钱不同是一样的道理。刚才你也听到了，诊费全部由她来付的。”</span></p>
-<p class="calibre1"><span>我听了挠挠头，无可奈何地对A、B说：</span></p>
-<p class="calibre1"><span>“你们可以走了，因为你们都付了诊费。”</span></p>
-<p class="calibre1"><span>好家伙，大小通吃。</span></p>
-<p class="kindle-cn-para-no-indent1"><span class="kindle-cn-bold">［鉴赏］</span>　读题目《大小通吃》以为是写赌博的题材，通读全文后才知写了一个女骗子的行骗过程。不管是大骗子、小骗子，要想骗术得逞，首先要了解对方的心理，抓住其软档，或者说死穴，这样就容易得手了。在文中，那位漂亮的女骗子就是抓住医生色迷迷的心理展开其骗术的。</p>
-<p class="calibre1">作品采用了抽丝剥茧的手法，将女骗子的行骗之术一步步地描绘出来，让读者多一点社会经验，多一点识别骗子的眼力。作品的故事构架是骗子行骗，但重点却落在如何识人上，即千万不要被表象、被外貌所蒙蔽。俗话说，人不可貌相，漂亮的脸蛋不一定有善良的心。这位医生之所以受骗吃亏，就是因为被女骗子漂亮的外貌弄得神魂颠倒，以致直到受了骗才醒悟。在这篇作品里，受骗的其实不仅仅是医生，两位看病女人实在也是受骗者。为什么会大小通吃，全部受骗呢？关键还是心有贪欲，两位看病女人想贪点小便宜，省下五千盾；医生呢，多少有点色欲，想与漂亮女人来个面对面的零距离接触。结果呢，应了中国的一句老话：花钱买教训。生活中的小插曲，写出了生活哲理，写出了社会教训，让读者有所悟、有所得。这样的作品，确实是不错的。</p>
-<p class="calibre1">中国有句老话“戏法人人会变，各有巧妙不同”，那么套用这句话就是故事人人会编，各有高招不同。好的故事不但要编得自圆其说，还要编得天衣无缝。这篇作品用第一人称叙述，用作者的视角叙写，增加了故事的临场感与真实性。读者随着作者所看到的、所听到的，仿佛也如此经历了一回，这样，就不觉得作者在编故事，而是仿佛在听作者拉家常，在作者娓娓的叙述中，既听到了生活中的一个小插曲，又得到了某些警示。读这样一篇微型小说，值！</p>
-<p class="kindle-cn-para-right"><span>（凌鼎年）</span></p>
-</div>
-]]></description>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：7 分钟 (1986 字)&lt;/p&gt;&lt;hr&gt;&lt;div class="chapter" id="chapter"&gt;
+&lt;div class="calibre4" id="calibre_pb_0"&gt;&lt;/div&gt;&lt;h1 class="kindle-cn-heading1" id="calibre_pb_1"&gt;大小通吃　&lt;span class="font1"&gt;［印度尼西亚］林万里&lt;/span&gt;&lt;/h1&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;上午，诊室的门铃响了两下。我就知道看病的人来了。我一开诊室的门，就看到候诊室里坐着三个人。左边的长板凳上坐着两位年龄大约都在四十上下的女人。其中一位愁容满面，散发不梳，身披牛仔夹克，我暂时称她为A；另一位呆头傻脑，眼屎未除，颈项上缚一条灰色围巾，我姑且叫她为B。这两位污垢满脸的女人，从她们邋遢的样子，一眼就能看出是病魔缠身的人。她们的对面，右边的铁椅上坐着一位明眸皓齿的红装女人，衣裙、嘴唇和指甲全是红红的，光彩夺目。看上去三十岁左右，端庄、秀气、俏丽。我敢断定地说，这种女人肯定人见人爱。她不像是有病的人。凭经验我心里猜想，她八成是陪送A、B来的。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;人们常说宁可做导演，不要做医生。因为导演是对着漂亮美丽的明星；而医生总是对着愁眉苦脸的病人。今早我可走好运了，总算对着一位美丽的女人。她比明星还要明星。我注视着她，心里美滋滋地十分舒坦。医生和常人一样都喜欢欣赏美的东西。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“医生，早安。”一见到我立在门旁，那一位“全是红红的”便开口说，她不但人长得妩媚，声音也十分悦耳。说了“早安”以后，她转过头对着A、B说：“你们两位先看吧，你们一起进去吧。”回头又对我说：“医生，她们是我亲戚。先给她们看吧，她们都病得不轻。等下轮到我，诊费跟我的一起算，由我来付。”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;瞧，这美丽的女人，心地多好！&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;A、B进来了，我心不在焉地给她们检查了一下，发现A是患了流行性感冒，B是吃错东西拉肚子。我给她们各打了一针并配了药方，前后不到几分钟就解决了A、B的问题。她们似乎发现我给她们看病时的心猿意马，也发觉我是要尽快地把她们打发走。老实说，这时候我脑海里想的是在候诊室正在候诊的那位“全是红红的”，好让她快点进来，好让我好好欣赏。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;当我开门把A、B送走，正要招呼那位“全是红红的”时候，发现我的候诊室里空无一人。开始我以为她上厕所去了。这时厕所的门敞开着，证明里头无人。我走去巡查，里头空空如也。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;我便问A：“你们的亲戚怎么还没看病就不见人影了？”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“什么我亲戚？我根本不认识她，刚才在你这里初次见面。”A不悦地回答道。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“那么你们两位是亲戚吗？”我指着A、B问道。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“我们三个人，谁都不认识谁，怎么会是亲戚呢！”B答道。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“你们跟她是亲戚或者不是，都不要紧。她不想给我看也没关系。她走了，那么诊费你们自己付好了。每人一万五千盾。”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“诊费我们已经付了。”A、B异口同声地答道。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“是什么时候付给我的？”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“不是付给你，我们已经付给她了。”A答道。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“你们为什么要付给她？”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“刚才我们等你看病的时候。她走进来，问我们在这里看病，一次要付多少钱，我说看一次要一万五千盾。她说这里的医生是她爸爸的好朋友。她给我们省钱，要我们假认是她亲戚。诊费有折扣，说我们每个人交给她一万盾就够了。我们心里想，这个人真好，帮我们每人省五千盾，我们就把钱交给了她。”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“你们就相信了她的话，钱就给她了？”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“是呀！她还说，一个人看病跟三个人一起看病，收费应该不同，就像批发价钱跟零售价钱不同是一样的道理。刚才你也听到了，诊费全部由她来付的。”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;我听了挠挠头，无可奈何地对A、B说：&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“你们可以走了，因为你们都付了诊费。”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;好家伙，大小通吃。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="kindle-cn-para-no-indent1"&gt;&lt;span class="kindle-cn-bold"&gt;［鉴赏］&lt;/span&gt;　读题目《大小通吃》以为是写赌博的题材，通读全文后才知写了一个女骗子的行骗过程。不管是大骗子、小骗子，要想骗术得逞，首先要了解对方的心理，抓住其软档，或者说死穴，这样就容易得手了。在文中，那位漂亮的女骗子就是抓住医生色迷迷的心理展开其骗术的。&lt;/p&gt;
+&lt;p class="calibre1"&gt;作品采用了抽丝剥茧的手法，将女骗子的行骗之术一步步地描绘出来，让读者多一点社会经验，多一点识别骗子的眼力。作品的故事构架是骗子行骗，但重点却落在如何识人上，即千万不要被表象、被外貌所蒙蔽。俗话说，人不可貌相，漂亮的脸蛋不一定有善良的心。这位医生之所以受骗吃亏，就是因为被女骗子漂亮的外貌弄得神魂颠倒，以致直到受了骗才醒悟。在这篇作品里，受骗的其实不仅仅是医生，两位看病女人实在也是受骗者。为什么会大小通吃，全部受骗呢？关键还是心有贪欲，两位看病女人想贪点小便宜，省下五千盾；医生呢，多少有点色欲，想与漂亮女人来个面对面的零距离接触。结果呢，应了中国的一句老话：花钱买教训。生活中的小插曲，写出了生活哲理，写出了社会教训，让读者有所悟、有所得。这样的作品，确实是不错的。&lt;/p&gt;
+&lt;p class="calibre1"&gt;中国有句老话“戏法人人会变，各有巧妙不同”，那么套用这句话就是故事人人会编，各有高招不同。好的故事不但要编得自圆其说，还要编得天衣无缝。这篇作品用第一人称叙述，用作者的视角叙写，增加了故事的临场感与真实性。读者随着作者所看到的、所听到的，仿佛也如此经历了一回，这样，就不觉得作者在编故事，而是仿佛在听作者拉家常，在作者娓娓的叙述中，既听到了生活中的一个小插曲，又得到了某些警示。读这样一篇微型小说，值！&lt;/p&gt;
+&lt;p class="kindle-cn-para-right"&gt;&lt;span&gt;（凌鼎年）&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
     <pubDate>Sat, 15 Aug 2026 00:42:04 +0000</pubDate>
     <guid isPermaLink="false">31</guid>
 </item>
 <item>
-      <title><![CDATA[临高启明 第二十三节 邬德的新任务（一）]]></title>
+      <title>临高启明 第二十三节 邬德的新任务（一）</title>
       <link>https://lingaoqiming.github.io/2/2-02300.html</link>
-      <description><![CDATA[]]></description>
+      <description />
       <guid isPermaLink="false">https://lingaoqiming.github.io/2/2-02300.html</guid>
       <pubDate>Thu, 13 Aug 2026 01:44:40 +0000</pubDate>
     </item>
@@ -239,12 +247,5 @@
     <pubDate>Sat, 25 Jul 2026 02:57:26 +0000</pubDate>
     <guid isPermaLink="false">27</guid>
 </item>
-<item>
-      <title>临高启明 第四十三节 资源标准化</title>
-      <link>https://lingaoqiming.github.io/1/1-04300.html</link>
-      <description />
-      <guid isPermaLink="false">https://lingaoqiming.github.io/1/1-04300.html</guid>
-      <pubDate>Thu, 23 Jul 2026 02:29:41 +0000</pubDate>
-    </item>
 </channel>
 </rss>
